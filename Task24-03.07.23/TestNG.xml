@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name ="Login Suite">
+<test name ="Login Test Cases">
+<classes>
+<class name = "loginTestCases.CorrectUserName"/>
+<class name = "loginTestCases.CorrectPassword"/>
+<class name = "loginTestCases.BothIncorrect"/>
+<class name = "loginTestCases.BothCorrect"/>
+
+</classes>
+
+
+</test>
+
+</suite>
